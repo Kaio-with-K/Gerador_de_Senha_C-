@@ -1,0 +1,14 @@
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\bin\Debug\net8.0\PROJETO GERAR SENHA.exe
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\bin\Debug\net8.0\PROJETO GERAR SENHA.deps.json
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\bin\Debug\net8.0\PROJETO GERAR SENHA.runtimeconfig.json
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\bin\Debug\net8.0\PROJETO GERAR SENHA.dll
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\bin\Debug\net8.0\PROJETO GERAR SENHA.pdb
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.AssemblyInfoInputs.cache
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.AssemblyInfo.cs
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.csproj.CoreCompileInputs.cache
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.dll
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\refint\PROJETO GERAR SENHA.dll
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.pdb
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\PROJETO GERAR SENHA.genruntimeconfig.cache
+C:\Users\kaio_\OneDrive\Documents\VSCODE ESTUDOS\ESTUDOS C#\PROJETO GERAR SENHA\obj\Debug\net8.0\ref\PROJETO GERAR SENHA.dll
